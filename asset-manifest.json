@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/malikadnan23/Githu/static/css/main.f855e6bc.css",
+    "main.js": "/malikadnan23/Githu/static/js/main.480c7098.js",
+    "static/js/453.fae51637.chunk.js": "/malikadnan23/Githu/static/js/453.fae51637.chunk.js",
+    "static/media/logo.svg": "/malikadnan23/Githu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/malikadnan23/Githu/index.html",
+    "main.f855e6bc.css.map": "/malikadnan23/Githu/static/css/main.f855e6bc.css.map",
+    "main.480c7098.js.map": "/malikadnan23/Githu/static/js/main.480c7098.js.map",
+    "453.fae51637.chunk.js.map": "/malikadnan23/Githu/static/js/453.fae51637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.480c7098.js"
+  ]
+}
